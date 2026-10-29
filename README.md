@@ -244,4 +244,4 @@ This repository serves as the official landing page for SeaMonkey. The software 
 **Get the most recent version of SeaMonkey today!**
 
 ---
-**Last updated:** 2026-10-29 06:53:45 UTC
+**Last updated:** 2026-10-29 14:03:29 UTC
